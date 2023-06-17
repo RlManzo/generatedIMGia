@@ -10,7 +10,7 @@ dotenv.config();
 
 const app = express();
 const port = 3000;
-const API_KEY = process.env.API_KEY;
+const API_KEY = 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;
 const URL = 'https://api.openai.com/v1/images/generations'
 
 app.use(cors());
