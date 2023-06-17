@@ -1,0 +1,4 @@
+#ignora los archivos relacionados con API_KEY
+.env
+#ignora la carpeta node_modules
+node_modules
